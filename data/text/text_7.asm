@@ -28,8 +28,8 @@ _GotOffBicycleText2::
 	prompt
 
 _ThrewAwayItemText::
-	text "@"
 	text_ram wNameBuffer
+	text_start
 	line "arrojado."
 	prompt
 
