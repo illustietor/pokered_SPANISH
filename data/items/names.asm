@@ -53,7 +53,7 @@ ItemNames::
 	li "POKÉ MUÑECA"
 	li "CURA TOTAL"
 	li "REVIVIR"
-	li "MAX REVIVIR"
+	li "MÁX REVIVIR"
 	li "PROTEC. ESP."
 	li "SÚPER REPEL"
 	li "MÁX REPEL"
@@ -80,7 +80,7 @@ ItemNames::
 	li "SÚPER CAÑA"
 	li "MÁS PP"
 	li "ÉTER"
-	li "ÉTER MAX."
+	li "ÉTER MÁX."
 	li "ELIXIR"
 	li "ELIXIR MÁX."
 	assert_list_length NUM_ITEMS
