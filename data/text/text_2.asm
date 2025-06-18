@@ -984,8 +984,7 @@ _LinkBattleLostText::
 _TrainerAboutToUseText::
 	text "¡@"
 	text_ram wTrainerName
-	text " is"
-	line "about to use"
+	line "va a utilizar a"
 	cont"@"
 	text_ram wEnemyMonNick
 	text "!"
@@ -1149,11 +1148,10 @@ _CantMoveText::
 	prompt
 
 _MoveIsDisabledText::
-	text "<USER>'s"
-	line "@"
+	text "¡@"
 	text_ram wcd6d
-	text " is"
-	cont "disabled!"
+	line "de <USER>"
+	cont "anulado!"
 	prompt
 
 _MonName1Text::
@@ -1288,8 +1286,9 @@ _HitXTimesText::
 	prompt
 
 _GainedText::
+	text "¡@"
 	text_ram wcd6d
-	text " gained"
+	text " ganó"
 	line "@"
 	text_end
 
@@ -1309,9 +1308,10 @@ _ExpPointsText::
 	prompt
 
 _GrewLevelText::
+	text "¡@"
 	text_ram wcd6d
-	text " grew"
-	line "to level @"
+	text " subió"
+	line "al nivel @"
 	text_decimal wCurEnemyLVL, 1, 3
 	text "!@"
 	text_end
@@ -1470,7 +1470,8 @@ _PartyMenuSwapMonText::
 	line "adónde?"
 	done
 
-_PotionText::
+_PotionText:: ;Utilizar objetos de recuperación
+	text "¡@"
 	text_ram wcd6d
 	text_start
 	line "ha recuperado @"
@@ -1479,51 +1480,55 @@ _PotionText::
 	done
 
 _AntidoteText::
+	text "¡@"
 	text_ram wcd6d
-	text " was"
-	line "cured of poison!"
+	text " fue"
+	line "curado del veneno!"
 	done
 
 _ParlyzHealText::
+	text "¡@"
 	text_ram wcd6d
-	text "'s"
-	line "rid of paralysis!"
+	line "no está paraliz.!"
 	done
 
 _BurnHealText::
+	text "¡@"
 	text_ram wcd6d
-	text "'s"
-	line "burn was healed!"
+	line "fue curado!"
 	done
 
 _IceHealText::
+	text "¡@"
 	text_ram wcd6d
-	text " was"
-	line "defrosted!"
+	line "fue descongelado!"
 	done
 
 _AwakeningText::
+	text "¡@"
 	text_ram wcd6d
 	text_start
 	line "se despertó!"
 	done
 
 _FullHealText::
+	text "¡@"
 	text_ram wcd6d
-	text "'s"
-	line "health returned!"
+	line "está recuperado!"
 	done
 
 _ReviveText::
+	text "¡@"
 	text_ram wcd6d
 	text_start
 	line "revitalizado!"
 	done
 
 _RareCandyText::
+	text "¡@"
 	text_ram wcd6d
-	text " grew"
-	line "to level @"
+	text " subió"
+	line "al nivel @"
 	text_decimal wCurEnemyLVL, 1, 3
 	text "!@"
 	text_end
@@ -1583,8 +1588,8 @@ _DepositHowManyText::
 
 _ItemWasStoredText::
 	text_ram wcd6d
-	text " was"
-	line "stored via PC."
+	text " fue"
+	line "guardado vía PC."
 	prompt
 
 _NothingToDepositText::
@@ -1656,8 +1661,9 @@ _DepositWhichMonText::
 
 _MonWasStoredText::
 	text_ram wcf4b
-	text " was"
-	line "stored in Box @"
+	text " fue"
+	line "guardado en la"
+	cont "Caja @"
 	text_ram wBoxNumString
 	text "."
 	prompt
@@ -1675,10 +1681,12 @@ _BoxFullText::
 	prompt
 
 _MonIsTakenOutText::
+	text "Retirado"
+	line "@"
 	text_ram wcf4b
-	text " is"
-	line "taken out."
-	cont "Got @"
+	text "."
+	cont "Recibes"
+	cont "@"
 	text_ram wcf4b
 	text "."
 	prompt
@@ -1702,18 +1710,19 @@ _ReleaseWhichMonText::
 	done
 
 _OnceReleasedText::
-	text "Once released,"
-	line "@"
+	text "Si lo sueltas,"
+	line "no volverás a ver"
+	cont "a @"
 	text_ram wcf4b
-	text " is"
-	cont "gone forever. OK?"
+	text "."
+	cont "¿De acuerdo?"
 	done
 
 _MonWasReleasedText::
 	text_ram wcf4b
-	text " was"
-	line "released outside."
-	cont "Bye @"
+	text " fue"
+	line "liberado. ¡Adiós"
+	cont "@"
 
 _CF4BExclamationText::
 	text_ram wcf4b

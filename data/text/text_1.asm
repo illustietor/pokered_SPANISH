@@ -1,5 +1,7 @@
 _CardKeySuccessText1:: ; Textos llave magnética de Sliph S.A.
 	text "¡Bingo!@"
+_CardKeySuccessText1:: ; Textos llave magnética de Sliph S.A.
+	text "¡Bingo!@"
 	text_end
 
 _CardKeySuccessText2::
@@ -7,9 +9,15 @@ _CardKeySuccessText2::
 	line "¡La LLAVE"
 	cont "MAGNÉTICA abrió"
 	cont "la puerta!"
+	line "¡La LLAVE"
+	cont "MAGNÉTICA abrió"
+	cont "la puerta!"
 	done
 
 _CardKeyFailText::
+	text "¡Caray! ¡Necesito"
+	line "una LLAVE"
+	cont "MAGNÉTICA!"
 	text "¡Caray! ¡Necesito"
 	line "una LLAVE"
 	cont "MAGNÉTICA!"
@@ -22,9 +30,13 @@ _TrainerNameText:: ;???
 
 _NoNibbleText:: ;Utilizando la caña de pescar
 	text "¡No pican!"
+_NoNibbleText:: ;Utilizando la caña de pescar
+	text "¡No pican!"
 	prompt
 
 _NothingHereText::
+	text "Aquí parece que"
+	line "no hay nada."
 	text "Aquí parece que"
 	line "no hay nada."
 	prompt
@@ -32,12 +44,18 @@ _NothingHereText::
 _ItsABiteText::
 	text "¡Oh!"
 	line "¡¡¡Han picado!!!"
+	text "¡Oh!"
+	line "¡¡¡Han picado!!!"
 	prompt
 
+_ExclamationText:: ;Exclamación
 _ExclamationText:: ;Exclamación
 	text "!"
 	done
 
+_GroundRoseText:: ;???
+	text "¡El suelo surgió"
+	line "de algún lugar!"
 _GroundRoseText:: ;???
 	text "¡El suelo surgió"
 	line "de algún lugar!"
@@ -47,8 +65,16 @@ _BoulderText:: ;Texto FUERZA
 	text "¡Se requiere"
 	line "FUERZA para"
 	cont "moverla!"
+_BoulderText:: ;Texto FUERZA
+	text "¡Se requiere"
+	line "FUERZA para"
+	cont "moverla!"
 	done
 
+_MartSignText:: ;Cartel Tienda Pokémon
+	text "¡Compra aquí todos"
+	line "tus objetos!"
+	cont "TIENDA <PKMN>"
 _MartSignText:: ;Cartel Tienda Pokémon
 	text "¡Compra aquí todos"
 	line "tus objetos!"
