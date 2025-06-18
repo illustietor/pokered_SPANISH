@@ -5,7 +5,8 @@ The purpose of this project is to develop a disassembled version translated into
 
 ## Progress
 <details>
-  <summary>Translations</summary>
+<summary>Translations</summary>
+
 | Subjective translation tasks                                                                              | Progress    |
 | --------------------------------------------------------------------------------------------------------- | ----------- |
 | ~[Pokémon types](data/types/names.asm)~                                                                   | 0 / 16      |
@@ -18,7 +19,7 @@ The purpose of this project is to develop a disassembled version translated into
 
 | Large files                                                                                               | Progress    |
 | --------------------------------------------------------------------------------------------------------- | ----------- |
-| Trainer types [[1](data/trainers/names.asm) [2](data/trainers/name_pointers.asm)] (e.g. Hiker, Youngster) | 0 / 27      |
+| Trainer types [[1](data/trainers/names.asm) [2](data/trainers/name_pointers.asm)] (e.g. Hiker, Youngster) | ✅         |
 | [Credits](data/credits/credits_text.asm)                                                                  | ✅         |
 | [text_1.asm](data/text/text_1.asm)                                                                        | ✅         |
 | [text_2.asm](data/text/text_2.asm)                                                                        | ✅         |
