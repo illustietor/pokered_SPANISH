@@ -1149,7 +1149,7 @@ _CantMoveText::
 
 _MoveIsDisabledText::
 	text "¡@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	line "de <USER>"
 	cont "anulado!"
 	prompt
@@ -1287,7 +1287,7 @@ _HitXTimesText::
 
 _GainedText::
 	text "¡@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text " ganó"
 	line "@"
 	text_end
@@ -1309,10 +1309,10 @@ _ExpPointsText::
 
 _GrewLevelText::
 	text "¡@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text " subió"
 	line "al nivel @"
-	text_decimal wCurEnemyLVL, 1, 3
+	text_decimal wCurEnemyLevel, 1, 3
 	text "!@"
 	text_end
 
@@ -1472,7 +1472,7 @@ _PartyMenuSwapMonText::
 
 _PotionText:: ;Utilizar objetos de recuperación
 	text "¡@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text_start
 	line "ha recuperado @"
 	text_decimal wHPBarHPDifference, 2, 3
@@ -1481,55 +1481,55 @@ _PotionText:: ;Utilizar objetos de recuperación
 
 _AntidoteText::
 	text "¡@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text " fue"
 	line "curado del veneno!"
 	done
 
 _ParlyzHealText::
 	text "¡@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	line "no está paraliz.!"
 	done
 
 _BurnHealText::
 	text "¡@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	line "fue curado!"
 	done
 
 _IceHealText::
 	text "¡@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	line "fue descongelado!"
 	done
 
 _AwakeningText::
 	text "¡@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text_start
 	line "se despertó!"
 	done
 
 _FullHealText::
 	text "¡@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	line "está recuperado!"
 	done
 
 _ReviveText::
 	text "¡@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text_start
 	line "revitalizado!"
 	done
 
 _RareCandyText::
 	text "¡@"
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text " subió"
 	line "al nivel @"
-	text_decimal wCurEnemyLVL, 1, 3
+	text_decimal wCurEnemyLevel, 1, 3
 	text "!@"
 	text_end
 
@@ -1587,7 +1587,7 @@ _DepositHowManyText::
 	done
 
 _ItemWasStoredText::
-	text_ram wcd6d
+	text_ram wNameBuffer
 	text " fue"
 	line "guardado vía PC."
 	prompt
@@ -1660,7 +1660,7 @@ _DepositWhichMonText::
 	done
 
 _MonWasStoredText::
-	text_ram wcf4b
+	text_ram wStringBuffer
 	text " fue"
 	line "guardado en la"
 	cont "Caja @"
@@ -1683,11 +1683,11 @@ _BoxFullText::
 _MonIsTakenOutText::
 	text "Retirado"
 	line "@"
-	text_ram wcf4b
+	text_ram wStringBuffer
 	text "."
 	cont "Recibes"
 	cont "@"
-	text_ram wcf4b
+	text_ram wStringBuffer
 	text "."
 	prompt
 
@@ -1713,19 +1713,19 @@ _OnceReleasedText::
 	text "Si lo sueltas,"
 	line "no volverás a ver"
 	cont "a @"
-	text_ram wcf4b
+	text_ram wStringBuffer
 	text "."
 	cont "¿De acuerdo?"
 	done
 
 _MonWasReleasedText::
-	text_ram wcf4b
+	text_ram wStringBuffer
 	text " fue"
 	line "liberado. ¡Adiós"
 	cont "@"
 
 _CF4BExclamationText::
-	text_ram wcf4b
+	text_ram wStringBuffer
 	text "!"
 	prompt
 
