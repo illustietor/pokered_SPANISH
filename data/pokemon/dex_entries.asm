@@ -1073,9 +1073,9 @@ StarmieDexEntry:
 	text_end
 
 BulbasaurDexEntry:
-	db "SEED@"
-	db 2,4
-	dw 150
+	db "SEMILLA@"
+	db 0,70
+	dw 69
 	text_far _BulbasaurDexEntry
 	text_end
 
@@ -1178,16 +1178,16 @@ MagnemiteDexEntry:
 	text_end
 
 CharmanderDexEntry:
-	db "LIZARD@"
-	db 2,0
-	dw 190
+	db "LAGARTIJA@"
+	db 0,60
+	dw 85
 	text_far _CharmanderDexEntry
 	text_end
 
 SquirtleDexEntry:
-	db "TINYTURTLE@"
-	db 1,8
-	dw 200
+	db "TORTUGUITA@"
+	db 0,50
+	dw 90
 	text_far _SquirtleDexEntry
 	text_end
 
