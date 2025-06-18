@@ -9,13 +9,13 @@ The purpose of this project is to develop a disassembled version translated into
 
 | Subjective translation tasks                                                                              | Progress    |
 | --------------------------------------------------------------------------------------------------------- | ----------- |
-| ~[Pokémon types](data/types/names.asm)~                                                                   | 0 / 16      |
+| ~[Pokémon types](data/types/names.asm)~                                                                   | ✅         |
 | [Pokédex descriptions](data/pokemon/dex_text.asm)                                                         | 0 / 151     |
 | [Pokédex data](data/pokemon/dex_entries.asm) (e.g. Onix = ROCK SNAKE)                                     | 0 / 151     |
-| [Item names](data/items/names.asm)                                                                        | 0 / 97     |
-| Move names [[1](data/moves/names.asm) ~[2](data/moves/field_move_names.asm)~]                             | 0 / 173    |
-| [Place names](data/maps/names.asm)                                                                        | 0 / 53      |
-| Default player names [[1](data/player_names.asm) [2](data/player_names_list.asm)]                         | 0 / 6       |
+| [Item names](data/items/names.asm)                                                                        | ✅         |
+| Move names [[1](data/moves/names.asm) ~[2](data/moves/field_move_names.asm)~]                             | ✅         |
+| [Place names](data/maps/names.asm)                                                                        | ✅         |
+| Default player names [[1](data/player_names.asm) [2](data/player_names_list.asm)]                         | ✅         |
 
 | Large files                                                                                               | Progress    |
 | --------------------------------------------------------------------------------------------------------- | ----------- |
