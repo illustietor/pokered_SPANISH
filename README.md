@@ -31,216 +31,216 @@ The purpose of this project is to develop a disassembled version translated into
 
 | Location-specific text                                                                                    | Progress    |
 | --------------------------------------------------------------------------------------------------------- | ----------- |
-| [AgathasRoom.asm](text/AgathasRoom.asm)                                                                   | 0 / 4       |
-| [BikeShop.asm](text/BikeShop.asm)                                                                         | 0 / 11      |
-| [BillsHouse.asm](text/BillsHouse.asm)                                                                     | 0 / 8       |
-| [BluesHouse.asm](text/BluesHouse.asm)                                                                     | 0 / 7       |
-| [BrunosRoom.asm](text/BrunosRoom.asm)                                                                     | 0 / 4       |
-| [CeladonChiefHouse.asm](text/CeladonChiefHouse.asm)                                                       | 0 / 3       |
-| [CeladonCity.asm](text/CeladonCity.asm)                                                                   | 0 / 20      |
-| [CeladonDiner.asm](text/CeladonDiner.asm)                                                                 | 0 / 8       |
-| [CeladonGym.asm](text/CeladonGym.asm)                                                                     | 0 / 28      |
-| [CeladonHotel.asm](text/CeladonHotel.asm)                                                                 | 0 / 3       |
-| [CeladonMansion1F.asm](text/CeladonMansion1F.asm)                                                         | 0 / 5       |
-| [CeladonMansion2F.asm](text/CeladonMansion2F.asm)                                                         | 0 / 1       |
-| [CeladonMansion3F.asm](text/CeladonMansion3F.asm)                                                         | 0 / 9       |
-| [CeladonMansionRoof.asm](text/CeladonMansionRoof.asm)                                                     | 0 / 1       |
-| [CeladonMansionRoofHouse.asm](text/CeladonMansionRoofHouse.asm)                                           | 0 / 1       |
-| [CeladonMart1F.asm](text/CeladonMart1F.asm)                                                               | 0 / 3       |
-| [CeladonMart2F.asm](text/CeladonMart2F.asm)                                                               | 0 / 3       |
-| [CeladonMart3F.asm](text/CeladonMart3F.asm)                                                               | 0 / 15      |
-| [CeladonMart4F.asm](text/CeladonMart4F.asm)                                                               | 0 / 3       |
-| [CeladonMart5F.asm](text/CeladonMart5F.asm)                                                               | 0 / 3       |
-| [CeladonMartRoof.asm](text/CeladonMartRoof.asm)                                                           | 0 / 21      |
-| [CeladonPokecenter.asm](text/CeladonPokecenter.asm)                                                       | 0 / 2       |
-| [CeruleanBadgeHouse.asm](text/CeruleanBadgeHouse.asm)                                                     | 0 / 11      |
-| [CeruleanCaveB1F.asm](text/CeruleanCaveB1F.asm)                                                           | 0 / 1       |
-| [CeruleanCity.asm](text/CeruleanCity.asm)                                                                 | 0 / 27      |
-| [CeruleanGym.asm](text/CeruleanGym.asm)                                                                   | 0 / 14      |
-| [CeruleanMart.asm](text/CeruleanMart.asm)                                                                 | 0 / 2       |
-| [CeruleanPokecenter.asm](text/CeruleanPokecenter.asm)                                                     | 0 / 2       |
-| [CeruleanTradeHouse.asm](text/CeruleanTradeHouse.asm)                                                     | 0 / 1       |
-| [CeruleanTrashedHouse.asm](text/CeruleanTrashedHouse.asm)                                                 | 0 / 4       |
-| [ChampionsRoom.asm](text/ChampionsRoom.asm)                                                               | 0 / 8       |
-| [CinnabarGym.asm](text/CinnabarGym.asm)                                                                   | 0 / 30      |
-| [CinnabarIsland.asm](text/CinnabarIsland.asm)                                                             | 0 / 6       |
-| [CinnabarLab.asm](text/CinnabarLab.asm)                                                                   | 0 / 5       |
-| [CinnabarLabFossilRoom.asm](text/CinnabarLabFossilRoom.asm)                                               | 0 / 8       |
-| [CinnabarLabMetronomeRoom.asm](text/CinnabarLabMetronomeRoom.asm)                                         | 0 / 7       |
-| [CinnabarLabTradeRoom.asm](text/CinnabarLabTradeRoom.asm)                                                 | 0 / 1       |
-| [CinnabarMart.asm](text/CinnabarMart.asm)                                                                 | 0 / 2       |
-| [CinnabarPokecenter.asm](text/CinnabarPokecenter.asm)                                                     | 0 / 2       |
-| [CopycatsHouse1F.asm](text/CopycatsHouse1F.asm)                                                           | 0 / 3       |
-| [CopycatsHouse2F.asm](text/CopycatsHouse2F.asm)                                                           | 0 / 11      |
-| [Daycare.asm](text/Daycare.asm)                                                                           | 0 / 8       |
-| [Daycare_2.asm](text/Daycare_2.asm)                                                                       | 0 / 7       |
-| [DiglettsCaveRoute11.asm](text/DiglettsCaveRoute11.asm)                                                   | 0 / 1       |
-| [DiglettsCaveRoute2.asm](text/DiglettsCaveRoute2.asm)                                                     | 0 / 1       |
-| [FightingDojo.asm](text/FightingDojo.asm)                                                                 | 0 / 19      |
-| [FuchsiaBillsGrandpasHouse.asm](text/FuchsiaBillsGrandpasHouse.asm)                                       | 0 / 3       |
-| [FuchsiaCity.asm](text/FuchsiaCity.asm)                                                                   | 0 / 18      |
-| [FuchsiaGoodRodHouse.asm](text/FuchsiaGoodRodHouse.asm)                                                   | 0 / 5       |
-| [FuchsiaGym.asm](text/FuchsiaGym.asm)                                                                     | 0 / 2       |
-| [FuchsiaGym_2.asm](text/FuchsiaGym_2.asm)                                                                 | 0 / 25      |
-| [FuchsiaMart.asm](text/FuchsiaMart.asm)                                                                   | 0 / 2       |
-| [FuchsiaMeetingRoom.asm](text/FuchsiaMeetingRoom.asm)                                                     | 0 / 3       |
-| [FuchsiaPokecenter.asm](text/FuchsiaPokecenter.asm)                                                       | 0 / 2       |
-| [GameCorner.asm](text/GameCorner.asm)                                                                     | 0 / 30      |
-| [GameCornerPrizeRoom.asm](text/GameCornerPrizeRoom.asm)                                                   | 0 / 2       |
-| [HallOfFame.asm](text/HallOfFame.asm)                                                                     | 0 / 1       |
-| [IndigoPlateauLobby.asm](text/IndigoPlateauLobby.asm)                                                     | 0 / 2       |
-| [LancesRoom.asm](text/LancesRoom.asm)                                                                     | 0 / 3       |
-| [LavenderCuboneHouse.asm](text/LavenderCuboneHouse.asm)                                                   | 0 / 3       |
-| [LavenderMart.asm](text/LavenderMart.asm)                                                                 | 0 / 3       |
-| [LavenderPokecenter.asm](text/LavenderPokecenter.asm)                                                     | 0 / 2       |
-| [LavenderTown.asm](text/LavenderTown.asm)                                                                 | 0 / 9       |
-| [LoreleisRoom.asm](text/LoreleisRoom.asm)                                                                 | 0 / 4       |
-| [MrFujisHouse.asm](text/MrFujisHouse.asm)                                                                 | 0 / 12      |
-| [MrPsychicsHouse.asm](text/MrPsychicsHouse.asm)                                                           | 0 / 4       |
-| [MtMoon1F.asm](text/MtMoon1F.asm)                                                                         | 0 / 22      |
-| [MtMoonB1F.asm](text/MtMoonB1F.asm)                                                                       | 0 / 1       |
-| [MtMoonB2F.asm](text/MtMoonB2F.asm)                                                                       | 0 / 21      |
-| [MtMoonPokecenter.asm](text/MtMoonPokecenter.asm)                                                         | 0 / 7       |
-| [Museum1F.asm](text/Museum1F.asm)                                                                         | 0 / 16      |
-| [Museum2F.asm](text/Museum2F.asm)                                                                         | 0 / 7       |
-| [NameRatersHouse.asm](text/NameRatersHouse.asm)                                                           | 0 / 7       |
-| [OaksLab.asm](text/OaksLab.asm)                                                                           | 0 / 59      |
-| [PalletTown.asm](text/PalletTown.asm)                                                                     | 0 / 8       |
-| [PewterCity.asm](text/PewterCity.asm)                                                                     | 0 / 16      |
-| [PewterGym.asm](text/PewterGym.asm)                                                                       | 0 / 1       |
-| [PewterGym_2.asm](text/PewterGym_2.asm)                                                                   | 0 / 15      |
-| [PewterMart.asm](text/PewterMart.asm)                                                                     | 0 / 2       |
-| [PewterNidoranHouse.asm](text/PewterNidoranHouse.asm)                                                     | 0 / 3       |
-| [PewterPokecenter.asm](text/PewterPokecenter.asm)                                                         | 0 / 2       |
-| [PewterSpeechHouse.asm](text/PewterSpeechHouse.asm)                                                       | 0 / 2       |
-| [PokemonFanClub.asm](text/PokemonFanClub.asm)                                                             | 0 / 16      |
-| [PokemonMansion1F.asm](text/PokemonMansion1F.asm)                                                         | 0 / 6       |
-| [PokemonMansion2F.asm](text/PokemonMansion2F.asm)                                                         | 0 / 8       |
-| [PokemonMansion3F.asm](text/PokemonMansion3F.asm)                                                         | 0 / 7       |
-| [PokemonMansionB1F.asm](text/PokemonMansionB1F.asm)                                                       | 0 / 7       |
-| [PokemonTower1F.asm](text/PokemonTower1F.asm)                                                             | 0 / 5       |
-| [PokemonTower2F.asm](text/PokemonTower2F.asm)                                                             | 0 / 5       |
-| [PokemonTower3F.asm](text/PokemonTower3F.asm)                                                             | 0 / 9       |
-| [PokemonTower4F.asm](text/PokemonTower4F.asm)                                                             | 0 / 9       |
-| [PokemonTower5F.asm](text/PokemonTower5F.asm)                                                             | 0 / 14      |
-| [PokemonTower6F.asm](text/PokemonTower6F.asm)                                                             | 0 / 12      |
-| [PokemonTower7F.asm](text/PokemonTower7F.asm)                                                             | 0 / 10      |
-| [PowerPlant.asm](text/PowerPlant.asm)                                                                     | 0 / 2       |
-| [RedsHouse1F.asm](text/RedsHouse1F.asm)                                                                   | 0 / 5       |
-| [RockTunnel1F.asm](text/RockTunnel1F.asm)                                                                 | 0 / 22      |
-| [RockTunnelB1F.asm](text/RockTunnelB1F.asm)                                                               | 0 / 20      |
-| [RockTunnelB1F_2.asm](text/RockTunnelB1F_2.asm)                                                           | 0 / 4       |
-| [RockTunnelPokecenter.asm](text/RockTunnelPokecenter.asm)                                                 | 0 / 2       |
-| [RocketHideoutB1F.asm](text/RocketHideoutB1F.asm)                                                         | 0 / 15      |
-| [RocketHideoutB2F.asm](text/RocketHideoutB2F.asm)                                                         | 0 / 3       |
-| [RocketHideoutB3F.asm](text/RocketHideoutB3F.asm)                                                         | 0 / 6       |
-| [RocketHideoutB4F.asm](text/RocketHideoutB4F.asm)                                                         | 0 / 12      |
-| [RocketHideoutElevator.asm](text/RocketHideoutElevator.asm)                                               | 0 / 1       |
-| [Route1.asm](text/Route1.asm)                                                                             | 0 / 6       |
-| [Route10.asm](text/Route10.asm)                                                                           | 0 / 21      |
-| [Route11.asm](text/Route11.asm)                                                                           | 0 / 25      |
-| [Route11Gate1F.asm](text/Route11Gate1F.asm)                                                               | 0 / 1       |
-| [Route11Gate2F.asm](text/Route11Gate2F.asm)                                                               | 0 / 4       |
-| [Route11_2.asm](text/Route11_2.asm)                                                                       | 0 / 6       |
-| [Route12.asm](text/Route12.asm)                                                                           | 0 / 26      |
-| [Route12Gate1F.asm](text/Route12Gate1F.asm)                                                               | 0 / 1       |
-| [Route12Gate2F.asm](text/Route12Gate2F.asm)                                                               | 0 / 6       |
-| [Route12SuperRodHouse.asm](text/Route12SuperRodHouse.asm)                                                 | 0 / 6       |
-| [Route13.asm](text/Route13.asm)                                                                           | 0 / 33      |
-| [Route14.asm](text/Route14.asm)                                                                           | 0 / 31      |
-| [Route15.asm](text/Route15.asm)                                                                           | 0 / 31      |
-| [Route15Gate1F.asm](text/Route15Gate1F.asm)                                                               | 0 / 1       |
-| [Route15Gate2F.asm](text/Route15Gate2F.asm)                                                               | 0 / 2       |
-| [Route16.asm](text/Route16.asm)                                                                           | 0 / 23      |
-| [Route16FlyHouse.asm](text/Route16FlyHouse.asm)                                                           | 0 / 5       |
-| [Route16Gate1F.asm](text/Route16Gate1F.asm)                                                               | 0 / 4       |
-| [Route16Gate2F.asm](text/Route16Gate2F.asm)                                                               | 0 / 4       |
-| [Route17.asm](text/Route17.asm)                                                                           | 0 / 36      |
-| [Route18.asm](text/Route18.asm)                                                                           | 0 / 11      |
-| [Route18Gate1F.asm](text/Route18Gate1F.asm)                                                               | 0 / 3       |
-| [Route18Gate2F.asm](text/Route18Gate2F.asm)                                                               | 0 / 2       |
-| [Route19.asm](text/Route19.asm)                                                                           | 0 / 31      |
-| [Route2.asm](text/Route2.asm)                                                                             | 0 / 2       |
-| [Route20.asm](text/Route20.asm)                                                                           | 0 / 32      |
-| [Route21.asm](text/Route21.asm)                                                                           | 0 / 27      |
-| [Route22.asm](text/Route22.asm)                                                                           | 0 / 9       |
-| [Route22Gate.asm](text/Route22Gate.asm)                                                                   | 0 / 3       |
-| [Route23.asm](text/Route23.asm)                                                                           | 0 / 4       |
-| [Route24.asm](text/Route24.asm)                                                                           | 0 / 8       |
-| [Route24_2.asm](text/Route24_2.asm)                                                                       | 0 / 17      |
-| [Route25.asm](text/Route25.asm)                                                                           | 0 / 28      |
-| [Route2Gate.asm](text/Route2Gate.asm)                                                                     | 0 / 2       |
-| [Route2TradeHouse.asm](text/Route2TradeHouse.asm)                                                         | 0 / 1       |
-| [Route3.asm](text/Route3.asm)                                                                             | 0 / 26      |
-| [Route4.asm](text/Route4.asm)                                                                             | 0 / 6       |
-| [Route5.asm](text/Route5.asm)                                                                             | 0 / 1       |
-| [Route6.asm](text/Route6.asm)                                                                             | 0 / 18      |
-| [Route7.asm](text/Route7.asm)                                                                             | 0 / 1       |
-| [Route8.asm](text/Route8.asm)                                                                             | 0 / 28      |
-| [Route9.asm](text/Route9.asm)                                                                             | 0 / 28      |
-| [SSAnne1F.asm](text/SSAnne1F.asm)                                                                         | 0 / 2       |
-| [SSAnne1FRooms.asm](text/SSAnne1FRooms.asm)                                                               | 0 / 18      |
-| [SSAnne2F.asm](text/SSAnne2F.asm)                                                                         | 0 / 5       |
-| [SSAnne2FRooms.asm](text/SSAnne2FRooms.asm)                                                               | 0 / 19      |
-| [SSAnne3F.asm](text/SSAnne3F.asm)                                                                         | 0 / 1       |
-| [SSAnneB1FRooms.asm](text/SSAnneB1FRooms.asm)                                                             | 0 / 20      |
-| [SSAnneBow.asm](text/SSAnneBow.asm)                                                                       | 0 / 9       |
-| [SSAnneCaptainsRoom.asm](text/SSAnneCaptainsRoom.asm)                                                     | 0 / 7       |
-| [SSAnneKitchen.asm](text/SSAnneKitchen.asm)                                                               | 0 / 10      |
-| [SafariZoneCenter.asm](text/SafariZoneCenter.asm)                                                         | 0 / 2       |
-| [SafariZoneCenterRestHouse.asm](text/SafariZoneCenterRestHouse.asm)                                       | 0 / 2       |
-| [SafariZoneEast.asm](text/SafariZoneEast.asm)                                                             | 0 / 3       |
-| [SafariZoneEastRestHouse.asm](text/SafariZoneEastRestHouse.asm)                                           | 0 / 3       |
-| [SafariZoneGate.asm](text/SafariZoneGate.asm)                                                             | 0 / 13      |
-| [SafariZoneNorth.asm](text/SafariZoneNorth.asm)                                                           | 0 / 5       |
-| [SafariZoneNorthRestHouse.asm](text/SafariZoneNorthRestHouse.asm)                                         | 0 / 3       |
-| [SafariZoneSecretHouse.asm](text/SafariZoneSecretHouse.asm)                                               | 0 / 4       |
-| [SafariZoneWest.asm](text/SafariZoneWest.asm)                                                             | 0 / 4       |
-| [SafariZoneWestRestHouse.asm](text/SafariZoneWestRestHouse.asm)                                           | 0 / 3       |
-| [SaffronCity.asm](text/SaffronCity.asm)                                                                   | 0 / 23      |
-| [SaffronGates.asm](text/SaffronGates.asm)                                                                 | 0 / 4       |
-| [SaffronGym.asm](text/SaffronGym.asm)                                                                     | 0 / 30      |
-| [SaffronMart.asm](text/SaffronMart.asm)                                                                   | 0 / 2       |
-| [SaffronPidgeyHouse.asm](text/SaffronPidgeyHouse.asm)                                                     | 0 / 4       |
-| [SaffronPokecenter.asm](text/SaffronPokecenter.asm)                                                       | 0 / 2       |
-| [SeafoamIslandsB4F.asm](text/SeafoamIslandsB4F.asm)                                                       | 0 / 3       |
-| [SilphCo10F.asm](text/SilphCo10F.asm)                                                                     | 0 / 8       |
-| [SilphCo11F.asm](text/SilphCo11F.asm)                                                                     | 0 / 15      |
-| [SilphCo1F.asm](text/SilphCo1F.asm)                                                                       | 0 / 1       |
-| [SilphCo2F.asm](text/SilphCo2F.asm)                                                                       | 0 / 16      |
-| [SilphCo3F.asm](text/SilphCo3F.asm)                                                                       | 0 / 8       |
-| [SilphCo4F.asm](text/SilphCo4F.asm)                                                                       | 0 / 11      |
-| [SilphCo5F.asm](text/SilphCo5F.asm)                                                                       | 0 / 9       |
-| [SilphCo5F_2.asm](text/SilphCo5F_2.asm)                                                                   | 0 / 8       |
-| [SilphCo6F.asm](text/SilphCo6F.asm)                                                                       | 0 / 19      |
-| [SilphCo7F.asm](text/SilphCo7F.asm)                                                                       | 0 / 27      |
-| [SilphCo8F.asm](text/SilphCo8F.asm)                                                                       | 0 / 11      |
-| [SilphCo9F.asm](text/SilphCo9F.asm)                                                                       | 0 / 12      |
-| [UndergroundPathRoute6.asm](text/UndergroundPathRoute6.asm)                                               | 0 / 1       |
-| [UndergroundPathRoute7.asm](text/UndergroundPathRoute7.asm)                                               | 0 / 1       |
-| [UndergroundPathRoute7Copy.asm](text/UndergroundPathRoute7Copy.asm)                                       | 0 / 4       |
-| [UndergroundPathRoute8.asm](text/UndergroundPathRoute8.asm)                                               | 0 / 1       |
-| [VermilionCity.asm](text/VermilionCity.asm)                                                               | 0 / 17      |
-| [VermilionDock.asm](text/VermilionDock.asm)                                                               | 0 / 1       |
-| [VermilionGym.asm](text/VermilionGym.asm)                                                                 | 0 / 1       |
-| [VermilionGym_2.asm](text/VermilionGym_2.asm)                                                             | 0 / 17      |
-| [VermilionMart.asm](text/VermilionMart.asm)                                                               | 0 / 2       |
-| [VermilionOldRodHouse.asm](text/VermilionOldRodHouse.asm)                                                 | 0 / 6       |
-| [VermilionPidgeyHouse.asm](text/VermilionPidgeyHouse.asm)                                                 | 0 / 3       |
-| [VermilionPokecenter.asm](text/VermilionPokecenter.asm)                                                   | 0 / 2       |
-| [VictoryRoad1F.asm](text/VictoryRoad1F.asm)                                                               | 0 / 6       |
-| [VictoryRoad2F.asm](text/VictoryRoad2F.asm)                                                               | 0 / 16      |
-| [VictoryRoad3F.asm](text/VictoryRoad3F.asm)                                                               | 0 / 12      |
-| [ViridianCity.asm](text/ViridianCity.asm)                                                                 | 0 / 22      |
-| [ViridianForest.asm](text/ViridianForest.asm)                                                             | 0 / 17      |
-| [ViridianForestNorthGate.asm](text/ViridianForestNorthGate.asm)                                           | 0 / 2       |
-| [ViridianForestSouthGate.asm](text/ViridianForestSouthGate.asm)                                           | 0 / 2       |
-| [ViridianGym.asm](text/ViridianGym.asm)                                                                   | 0 / 33      |
-| [ViridianMart.asm](text/ViridianMart.asm)                                                                 | 0 / 5       |
-| [ViridianNicknameHouse.asm](text/ViridianNicknameHouse.asm)                                               | 0 / 4       |
-| [ViridianPokecenter.asm](text/ViridianPokecenter.asm)                                                     | 0 / 2       |
-| [ViridianSchoolHouse.asm](text/ViridianSchoolHouse.asm)                                                   | 0 / 2       |
-| [WardensHouse.asm](text/WardensHouse.asm)                                                                 | 0 / 11      |
+| [AgathasRoom.asm](text/AgathasRoom.asm)                                                                   | ✅       |
+| [BikeShop.asm](text/BikeShop.asm)                                                                         | ✅      |
+| [BillsHouse.asm](text/BillsHouse.asm)                                                                     | ✅       |
+| [BluesHouse.asm](text/BluesHouse.asm)                                                                     | ✅       |
+| [BrunosRoom.asm](text/BrunosRoom.asm)                                                                     | ✅       |
+| [CeladonChiefHouse.asm](text/CeladonChiefHouse.asm)                                                       | ✅       |
+| [CeladonCity.asm](text/CeladonCity.asm)                                                                   | ✅     |
+| [CeladonDiner.asm](text/CeladonDiner.asm)                                                                 | ✅       |
+| [CeladonGym.asm](text/CeladonGym.asm)                                                                     | ✅      |
+| [CeladonHotel.asm](text/CeladonHotel.asm)                                                                 | ✅       |
+| [CeladonMansion1F.asm](text/CeladonMansion1F.asm)                                                         | ✅       |
+| [CeladonMansion2F.asm](text/CeladonMansion2F.asm)                                                         | ✅       |
+| [CeladonMansion3F.asm](text/CeladonMansion3F.asm)                                                         | ✅       |
+| [CeladonMansionRoof.asm](text/CeladonMansionRoof.asm)                                                     | ✅       |
+| [CeladonMansionRoofHouse.asm](text/CeladonMansionRoofHouse.asm)                                           | ✅       |
+| [CeladonMart1F.asm](text/CeladonMart1F.asm)                                                               | ✅       |
+| [CeladonMart2F.asm](text/CeladonMart2F.asm)                                                               | ✅       |
+| [CeladonMart3F.asm](text/CeladonMart3F.asm)                                                               | ✅      |
+| [CeladonMart4F.asm](text/CeladonMart4F.asm)                                                               | ✅       |
+| [CeladonMart5F.asm](text/CeladonMart5F.asm)                                                               | ✅       |
+| [CeladonMartRoof.asm](text/CeladonMartRoof.asm)                                                           | ✅      |
+| [CeladonPokecenter.asm](text/CeladonPokecenter.asm)                                                       | ✅ |
+| [CeruleanBadgeHouse.asm](text/CeruleanBadgeHouse.asm)                                                     | ✅ |
+| [CeruleanCaveB1F.asm](text/CeruleanCaveB1F.asm)                                                           | ✅ |
+| [CeruleanCity.asm](text/CeruleanCity.asm)                                                                 | ✅ |
+| [CeruleanGym.asm](text/CeruleanGym.asm)                                                                   | ✅ |
+| [CeruleanMart.asm](text/CeruleanMart.asm)                                                                 | ✅ |
+| [CeruleanPokecenter.asm](text/CeruleanPokecenter.asm)                                                     | ✅ |
+| [CeruleanTradeHouse.asm](text/CeruleanTradeHouse.asm)                                                     | ✅ |
+| [CeruleanTrashedHouse.asm](text/CeruleanTrashedHouse.asm)                                                 | ✅ |
+| [ChampionsRoom.asm](text/ChampionsRoom.asm)                                                               | ✅ |
+| [CinnabarGym.asm](text/CinnabarGym.asm)                                                                   | ✅ |
+| [CinnabarIsland.asm](text/CinnabarIsland.asm)                                                             | ✅ |
+| [CinnabarLab.asm](text/CinnabarLab.asm)                                                                   | ✅ |
+| [CinnabarLabFossilRoom.asm](text/CinnabarLabFossilRoom.asm)                                               | ✅ |
+| [CinnabarLabMetronomeRoom.asm](text/CinnabarLabMetronomeRoom.asm)                                         | ✅ |
+| [CinnabarLabTradeRoom.asm](text/CinnabarLabTradeRoom.asm)                                                 | ✅ |
+| [CinnabarMart.asm](text/CinnabarMart.asm)                                                                 | ✅ |
+| [CinnabarPokecenter.asm](text/CinnabarPokecenter.asm)                                                     | ✅ |
+| [CopycatsHouse1F.asm](text/CopycatsHouse1F.asm)                                                           | ✅ |
+| [CopycatsHouse2F.asm](text/CopycatsHouse2F.asm)                                                           | ✅ |
+| [Daycare.asm](text/Daycare.asm)                                                                           | ✅ |
+| [Daycare_2.asm](text/Daycare_2.asm)                                                                       | ✅ |
+| [DiglettsCaveRoute11.asm](text/DiglettsCaveRoute11.asm)                                                   | ✅ |
+| [DiglettsCaveRoute2.asm](text/DiglettsCaveRoute2.asm)                                                     | ✅ |
+| [FightingDojo.asm](text/FightingDojo.asm)                                                                 | ✅ |
+| [FuchsiaBillsGrandpasHouse.asm](text/FuchsiaBillsGrandpasHouse.asm)                                       | ✅ |
+| [FuchsiaCity.asm](text/FuchsiaCity.asm)                                                                   | ✅ |
+| [FuchsiaGoodRodHouse.asm](text/FuchsiaGoodRodHouse.asm)                                                   | ✅ |
+| [FuchsiaGym.asm](text/FuchsiaGym.asm)                                                                     | ✅ |
+| [FuchsiaGym_2.asm](text/FuchsiaGym_2.asm)                                                                 | ✅ |
+| [FuchsiaMart.asm](text/FuchsiaMart.asm)                                                                   | ✅ |
+| [FuchsiaMeetingRoom.asm](text/FuchsiaMeetingRoom.asm)                                                     | ✅ |
+| [FuchsiaPokecenter.asm](text/FuchsiaPokecenter.asm)                                                       | ✅ |
+| [GameCorner.asm](text/GameCorner.asm)                                                                     | ✅ |
+| [GameCornerPrizeRoom.asm](text/GameCornerPrizeRoom.asm)                                                   | ✅ |
+| [HallOfFame.asm](text/HallOfFame.asm)                                                                     | ✅ |
+| [IndigoPlateauLobby.asm](text/IndigoPlateauLobby.asm)                                                     | ✅ |
+| [LancesRoom.asm](text/LancesRoom.asm)                                                                     | ✅ |
+| [LavenderCuboneHouse.asm](text/LavenderCuboneHouse.asm)                                                   | ✅ |
+| [LavenderMart.asm](text/LavenderMart.asm)                                                                 | ✅ |
+| [LavenderPokecenter.asm](text/LavenderPokecenter.asm)                                                     | ✅ |
+| [LavenderTown.asm](text/LavenderTown.asm)                                                                 | ✅ |
+| [LoreleisRoom.asm](text/LoreleisRoom.asm)                                                                 | ✅ |
+| [MrFujisHouse.asm](text/MrFujisHouse.asm)                                                                 | ✅ |
+| [MrPsychicsHouse.asm](text/MrPsychicsHouse.asm)                                                           | ✅ |
+| [MtMoon1F.asm](text/MtMoon1F.asm)                                                                         | ✅ |
+| [MtMoonB1F.asm](text/MtMoonB1F.asm)                                                                       | ✅ |
+| [MtMoonB2F.asm](text/MtMoonB2F.asm)                                                                       | ✅ |
+| [MtMoonPokecenter.asm](text/MtMoonPokecenter.asm)                                                         | ✅ |
+| [Museum1F.asm](text/Museum1F.asm)                                                                         | ✅ |
+| [Museum2F.asm](text/Museum2F.asm)                                                                         | ✅ |
+| [NameRatersHouse.asm](text/NameRatersHouse.asm)                                                           | ✅ |
+| [OaksLab.asm](text/OaksLab.asm)                                                                           | ✅ |
+| [PalletTown.asm](text/PalletTown.asm)                                                                     | ✅ |
+| [PewterCity.asm](text/PewterCity.asm)                                                                     | ✅ |
+| [PewterGym.asm](text/PewterGym.asm)                                                                       | ✅ |
+| [PewterGym_2.asm](text/PewterGym_2.asm)                                                                   | ✅ |
+| [PewterMart.asm](text/PewterMart.asm)                                                                     | ✅ |
+| [PewterNidoranHouse.asm](text/PewterNidoranHouse.asm)                                                     | ✅ |
+| [PewterPokecenter.asm](text/PewterPokecenter.asm)                                                         | ✅ |
+| [PewterSpeechHouse.asm](text/PewterSpeechHouse.asm)                                                       | ✅ |
+| [PokemonFanClub.asm](text/PokemonFanClub.asm)                                                             | ✅ |
+| [PokemonMansion1F.asm](text/PokemonMansion1F.asm)                                                         | ✅ |
+| [PokemonMansion2F.asm](text/PokemonMansion2F.asm)                                                         | ✅ |
+| [PokemonMansion3F.asm](text/PokemonMansion3F.asm)                                                         | ✅ |
+| [PokemonMansionB1F.asm](text/PokemonMansionB1F.asm)                                                       | ✅ |
+| [PokemonTower1F.asm](text/PokemonTower1F.asm)                                                             | ✅ |
+| [PokemonTower2F.asm](text/PokemonTower2F.asm)                                                             | ✅ |
+| [PokemonTower3F.asm](text/PokemonTower3F.asm)                                                             | ✅ |
+| [PokemonTower4F.asm](text/PokemonTower4F.asm)                                                             | ✅ |
+| [PokemonTower5F.asm](text/PokemonTower5F.asm)                                                             | ✅ |
+| [PokemonTower6F.asm](text/PokemonTower6F.asm)                                                             | ✅ |
+| [PokemonTower7F.asm](text/PokemonTower7F.asm)                                                             | ✅ |
+| [PowerPlant.asm](text/PowerPlant.asm)                                                                     | ✅ |
+| [RedsHouse1F.asm](text/RedsHouse1F.asm)                                                                   | ✅ |
+| [RockTunnel1F.asm](text/RockTunnel1F.asm)                                                                 | ✅ |
+| [RockTunnelB1F.asm](text/RockTunnelB1F.asm)                                                               | ✅ |
+| [RockTunnelB1F_2.asm](text/RockTunnelB1F_2.asm)                                                           | ✅ |
+| [RockTunnelPokecenter.asm](text/RockTunnelPokecenter.asm)                                                 | ✅ |
+| [RocketHideoutB1F.asm](text/RocketHideoutB1F.asm)                                                         | ✅ |
+| [RocketHideoutB2F.asm](text/RocketHideoutB2F.asm)                                                         | ✅ |
+| [RocketHideoutB3F.asm](text/RocketHideoutB3F.asm)                                                         | ✅ |
+| [RocketHideoutB4F.asm](text/RocketHideoutB4F.asm)                                                         | ✅ |
+| [RocketHideoutElevator.asm](text/RocketHideoutElevator.asm)                                               | ✅ |
+| [Route1.asm](text/Route1.asm)                                                                             | ✅ |
+| [Route10.asm](text/Route10.asm)                                                                           | ✅ |
+| [Route11.asm](text/Route11.asm)                                                                           | ✅ |
+| [Route11Gate1F.asm](text/Route11Gate1F.asm)                                                               | ✅ |
+| [Route11Gate2F.asm](text/Route11Gate2F.asm)                                                               | ✅ |
+| [Route11_2.asm](text/Route11_2.asm)                                                                       | ✅ |
+| [Route12.asm](text/Route12.asm)                                                                           | ✅ |
+| [Route12Gate1F.asm](text/Route12Gate1F.asm)                                                               | ✅ |
+| [Route12Gate2F.asm](text/Route12Gate2F.asm)                                                               | ✅ |
+| [Route12SuperRodHouse.asm](text/Route12SuperRodHouse.asm)                                                 | ✅ |
+| [Route13.asm](text/Route13.asm)                                                                           | ✅ |
+| [Route14.asm](text/Route14.asm)                                                                           | ✅ |
+| [Route15.asm](text/Route15.asm)                                                                           | ✅ |
+| [Route15Gate1F.asm](text/Route15Gate1F.asm)                                                               | ✅ |
+| [Route15Gate2F.asm](text/Route15Gate2F.asm)                                                               | ✅ |
+| [Route16.asm](text/Route16.asm)                                                                           | ✅ |
+| [Route16FlyHouse.asm](text/Route16FlyHouse.asm)                                                           | ✅ |
+| [Route16Gate1F.asm](text/Route16Gate1F.asm)                                                               | ✅ |
+| [Route16Gate2F.asm](text/Route16Gate2F.asm)                                                               | ✅ |
+| [Route17.asm](text/Route17.asm)                                                                           | ✅ |
+| [Route18.asm](text/Route18.asm)                                                                           | ✅ |
+| [Route18Gate1F.asm](text/Route18Gate1F.asm)                                                               | ✅ |
+| [Route18Gate2F.asm](text/Route18Gate2F.asm)                                                               | ✅ |
+| [Route19.asm](text/Route19.asm)                                                                           | ✅ |
+| [Route2.asm](text/Route2.asm)                                                                             | ✅ |
+| [Route20.asm](text/Route20.asm)                                                                           | ✅ |
+| [Route21.asm](text/Route21.asm)                                                                           | ✅ |
+| [Route22.asm](text/Route22.asm)                                                                           | ✅ |
+| [Route22Gate.asm](text/Route22Gate.asm)                                                                   | ✅ |
+| [Route23.asm](text/Route23.asm)                                                                           | ✅ |
+| [Route24.asm](text/Route24.asm)                                                                           | ✅ |
+| [Route24_2.asm](text/Route24_2.asm)                                                                       | ✅ |
+| [Route25.asm](text/Route25.asm)                                                                           | ✅ |
+| [Route2Gate.asm](text/Route2Gate.asm)                                                                     | ✅ |
+| [Route2TradeHouse.asm](text/Route2TradeHouse.asm)                                                         | ✅ |
+| [Route3.asm](text/Route3.asm)                                                                             | ✅ |
+| [Route4.asm](text/Route4.asm)                                                                             | ✅ |
+| [Route5.asm](text/Route5.asm)                                                                             | ✅ |
+| [Route6.asm](text/Route6.asm)                                                                             | ✅ |
+| [Route7.asm](text/Route7.asm)                                                                             | ✅ |
+| [Route8.asm](text/Route8.asm)                                                                             | ✅ |
+| [Route9.asm](text/Route9.asm)                                                                             | ✅ |
+| [SSAnne1F.asm](text/SSAnne1F.asm)                                                                         | ✅ |
+| [SSAnne1FRooms.asm](text/SSAnne1FRooms.asm)                                                               | ✅ |
+| [SSAnne2F.asm](text/SSAnne2F.asm)                                                                         | ✅ |
+| [SSAnne2FRooms.asm](text/SSAnne2FRooms.asm)                                                               | ✅ |
+| [SSAnne3F.asm](text/SSAnne3F.asm)                                                                         | ✅ |
+| [SSAnneB1FRooms.asm](text/SSAnneB1FRooms.asm)                                                             | ✅ |
+| [SSAnneBow.asm](text/SSAnneBow.asm)                                                                       | ✅ |
+| [SSAnneCaptainsRoom.asm](text/SSAnneCaptainsRoom.asm)                                                     | ✅ |
+| [SSAnneKitchen.asm](text/SSAnneKitchen.asm)                                                               | ✅ |
+| [SafariZoneCenter.asm](text/SafariZoneCenter.asm)                                                         | ✅ |
+| [SafariZoneCenterRestHouse.asm](text/SafariZoneCenterRestHouse.asm)                                       | ✅ |
+| [SafariZoneEast.asm](text/SafariZoneEast.asm)                                                             | ✅ |
+| [SafariZoneEastRestHouse.asm](text/SafariZoneEastRestHouse.asm)                                           | ✅ |
+| [SafariZoneGate.asm](text/SafariZoneGate.asm)                                                             | ✅ |
+| [SafariZoneNorth.asm](text/SafariZoneNorth.asm)                                                           | ✅ |
+| [SafariZoneNorthRestHouse.asm](text/SafariZoneNorthRestHouse.asm)                                         | ✅ |
+| [SafariZoneSecretHouse.asm](text/SafariZoneSecretHouse.asm)                                               | ✅ |
+| [SafariZoneWest.asm](text/SafariZoneWest.asm)                                                             | ✅ |
+| [SafariZoneWestRestHouse.asm](text/SafariZoneWestRestHouse.asm)                                           | ✅ |
+| [SaffronCity.asm](text/SaffronCity.asm)                                                                   | ✅ |
+| [SaffronGates.asm](text/SaffronGates.asm)                                                                 | ✅ |
+| [SaffronGym.asm](text/SaffronGym.asm)                                                                     | ✅ |
+| [SaffronMart.asm](text/SaffronMart.asm)                                                                   | ✅ |
+| [SaffronPidgeyHouse.asm](text/SaffronPidgeyHouse.asm)                                                     | ✅ |
+| [SaffronPokecenter.asm](text/SaffronPokecenter.asm)                                                       | ✅ |
+| [SeafoamIslandsB4F.asm](text/SeafoamIslandsB4F.asm)                                                       | ✅ |
+| [SilphCo10F.asm](text/SilphCo10F.asm)                                                                     | ✅ |
+| [SilphCo11F.asm](text/SilphCo11F.asm)                                                                     | ✅ |
+| [SilphCo1F.asm](text/SilphCo1F.asm)                                                                       | ✅ |
+| [SilphCo2F.asm](text/SilphCo2F.asm)                                                                       | ✅ |
+| [SilphCo3F.asm](text/SilphCo3F.asm)                                                                       | ✅ |
+| [SilphCo4F.asm](text/SilphCo4F.asm)                                                                       | ✅ |
+| [SilphCo5F.asm](text/SilphCo5F.asm)                                                                       | ✅ |
+| [SilphCo5F_2.asm](text/SilphCo5F_2.asm)                                                                   | ✅ |
+| [SilphCo6F.asm](text/SilphCo6F.asm)                                                                       | ✅ |
+| [SilphCo7F.asm](text/SilphCo7F.asm)                                                                       | ✅ |
+| [SilphCo8F.asm](text/SilphCo8F.asm)                                                                       | ✅ |
+| [SilphCo9F.asm](text/SilphCo9F.asm)                                                                       | ✅ |
+| [UndergroundPathRoute6.asm](text/UndergroundPathRoute6.asm)                                               | ✅ |
+| [UndergroundPathRoute7.asm](text/UndergroundPathRoute7.asm)                                               | ✅ |
+| [UndergroundPathRoute7Copy.asm](text/UndergroundPathRoute7Copy.asm)                                       | ✅ |
+| [UndergroundPathRoute8.asm](text/UndergroundPathRoute8.asm)                                               | ✅ |
+| [VermilionCity.asm](text/VermilionCity.asm)                                                               | ✅ |
+| [VermilionDock.asm](text/VermilionDock.asm)                                                               | ✅ |
+| [VermilionGym.asm](text/VermilionGym.asm)                                                                 | ✅ |
+| [VermilionGym_2.asm](text/VermilionGym_2.asm)                                                             | ✅ |
+| [VermilionMart.asm](text/VermilionMart.asm)                                                               | ✅ |
+| [VermilionOldRodHouse.asm](text/VermilionOldRodHouse.asm)                                                 | ✅ |
+| [VermilionPidgeyHouse.asm](text/VermilionPidgeyHouse.asm)                                                 | ✅ |
+| [VermilionPokecenter.asm](text/VermilionPokecenter.asm)                                                   | ✅ |
+| [VictoryRoad1F.asm](text/VictoryRoad1F.asm)                                                               | ✅ |
+| [VictoryRoad2F.asm](text/VictoryRoad2F.asm)                                                               | ✅ |
+| [VictoryRoad3F.asm](text/VictoryRoad3F.asm)                                                               | ✅ |
+| [ViridianCity.asm](text/ViridianCity.asm)                                                                 | ✅ |
+| [ViridianForest.asm](text/ViridianForest.asm)                                                             | ✅ |
+| [ViridianForestNorthGate.asm](text/ViridianForestNorthGate.asm)                                           | ✅ |
+| [ViridianForestSouthGate.asm](text/ViridianForestSouthGate.asm)                                           | ✅ |
+| [ViridianGym.asm](text/ViridianGym.asm)                                                                   | ✅ |
+| [ViridianMart.asm](text/ViridianMart.asm)                                                                 | ✅ |
+| [ViridianNicknameHouse.asm](text/ViridianNicknameHouse.asm)                                               | ✅ |
+| [ViridianPokecenter.asm](text/ViridianPokecenter.asm)                                                     | ✅ |
+| [ViridianSchoolHouse.asm](text/ViridianSchoolHouse.asm)                                                   | ✅ |
+| [WardensHouse.asm](text/WardensHouse.asm)                                                                 | ✅ |
 
 | Small files                                                                                               | Progress    |
 | --------------------------------------------------------------------------------------------------------- | ----------- |
@@ -284,7 +284,7 @@ The purpose of this project is to develop a disassembled version translated into
 | [engine/pokemon/status_screen.asm](engine/pokemon/status_screen.asm)                                      | ✅         |
 | [home/list_menu.asm](home/list_menu.asm)                                                                  | ✅         |
 | [home/names.asm](home/names.asm)                                                                          | ✅         |
-| [home/pokemon.asm](home/pokemon.asm)                                                                      | 0 / 1       |
+| [home/pokemon.asm](home/pokemon.asm)                                                                      | 0 / 1 ?     |
 | [home/text.asm](home/text.asm)                                                                            | ✅         |
 | [scripts/BikeShop.asm](scripts/BikeShop.asm)                                                              | ✅         |
 | [scripts/CeladonGym.asm](scripts/CeladonGym.asm)                                                          | ✅         |

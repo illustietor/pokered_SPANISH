@@ -3,9 +3,9 @@ _SafariZoneCenterRestHouseSignText::
 	done
 
 _SafariZoneCenterTrainerTipsSignText::
-	text "TRAINER TIPS"
+	text "PISTAS ENTRENADOR"
 
-	para "Press the START"
-	line "Button to check"
-	cont "remaining time!"
+	para "¡Pulsa START para"
+	line "saber cuánto"
+	cont "tiempo te queda!"
 	done
