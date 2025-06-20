@@ -5,7 +5,7 @@ El propósito de este proyecto es mantener una versión traducida al español co
 
 ## Progreso
 <details>
-<summary>Archivos con textos traducidos</summary>
+<summary>Glosario de archivos con textos traducidos</summary>
 
 | Subjective translation tasks                                                                              | Progress    |
 | --------------------------------------------------------------------------------------------------------- | ----------- |
