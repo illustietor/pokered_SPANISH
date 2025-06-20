@@ -1,11 +1,11 @@
-# Pokémon Red and Blue [Spanish Translation] [![Build Status][ci-badge]][ci]
+# Pokémon Rojo y Azul [Spanish Translation]
 
-This is a translation to spanish of the game texts in the disassembly project of Pokémon Red and Blue.
-The purpose of this project is to develop a disassembled version translated into Spanish with the same texts as in the original spanish release.
+Una versión traducida al español de los textos del juego del proyecto de desamblaje de Pokémon Rojo y Azul.
+El propósito de este proyecto es mantener una versión traducida al español con los mismos textos de la localización original.
 
-## Progress
+## Progreso
 <details>
-<summary>Translations</summary>
+<summary>Archivos con textos traducidos</summary>
 
 | Subjective translation tasks                                                                              | Progress    |
 | --------------------------------------------------------------------------------------------------------- | ----------- |
@@ -299,17 +299,13 @@ The purpose of this project is to develop a disassembled version translated into
 | [scripts/ViridianGym.asm](scripts/ViridianGym.asm)                                                        | ✅         |
 </details
 
-To set up the repository, see [**INSTALL.md**](INSTALL.md).
+Para montar el repositorio, consulta [**INSTALL.md**](INSTALL.md).
 
-## See also
+## Ver también
 
 - [**Wiki**][wiki] (includes [tutorials][tutorials])
 - [**Symbols**][symbols]
 - [**Tools**][tools]
-
-You can find us on [Discord (pret, #pokered)](https://discord.gg/d5dubZ3).
-
-For other pret projects, see [pret.github.io](https://pret.github.io/).
 
 [wiki]: https://github.com/pret/pokered/wiki
 [tutorials]: https://github.com/pret/pokered/wiki/Tutorials
