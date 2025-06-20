@@ -244,23 +244,23 @@ The purpose of this project is to develop a disassembled version translated into
 
 | Small files                                                                                               | Progress    |
 | --------------------------------------------------------------------------------------------------------- | ----------- |
-| [constants/item_constants.asm](constants/item_constants.asm)                                              | 0 / 4       |
-| [data/battle/stat_names.asm](data/battle/stat_names.asm)                                                  | 0 / 6       |
+| [constants/item_constants.asm](constants/item_constants.asm)                                              | 0 / 4 ?     |
+| [data/battle/stat_names.asm](data/battle/stat_names.asm)                                                  | ✅         |
 | [data/events/prizes.asm](data/events/prizes.asm)                                                          | ✅         |
 | [data/events/trades.asm](data/events/trades.asm)                                                          | ✅         |
-| [data/moves/tmhm_moves.asm](data/moves/tmhm_moves.asm)                                                    | 0 / 4       |
+| [data/moves/tmhm_moves.asm](data/moves/tmhm_moves.asm)                                                    | 0 / 4 ?     |
 | [data/text_boxes.asm](data/text_boxes.asm)                                                                | ✅         |
 | [data/yes_no_menu_strings.asm](data/yes_no_menu_strings.asm)                                              | ✅         |
-| [engine/battle/core.asm](engine/battle/core.asm)                                                          | 0 / 5       |
-| [engine/battle/end_of_battle.asm](engine/battle/end_of_battle.asm)                                        | 0 / 3       |
-| [engine/debug/debug_menu.asm](engine/debug/debug_menu.asm)                                                | 0 / 4       |
+| [engine/battle/core.asm](engine/battle/core.asm)                                                          | ✅         |
+| [engine/battle/end_of_battle.asm](engine/battle/end_of_battle.asm)                                        | ✅         |
+| [engine/debug/debug_menu.asm](engine/debug/debug_menu.asm)                                                | 0 / 4 ?      |
 | [engine/events/diploma.asm](engine/events/diploma.asm)                                                    | ✅         |
-| [engine/events/evolve_trade.asm](engine/events/evolve_trade.asm)                                          | 0 / 1       |
-| [engine/events/hidden_objects/bills_house_pc.asm](engine/events/hidden_objects/bills_house_pc.asm)        | 0 / 5       |
-| [engine/events/hidden_objects/school_blackboard.asm](engine/events/hidden_objects/school_blackboard.asm)  | 0 / 10      |
+| [engine/events/evolve_trade.asm](engine/events/evolve_trade.asm)                                          | 0 / 1 ?     |
+| [engine/events/hidden_objects/bills_house_pc.asm](engine/events/hidden_objects/bills_house_pc.asm)        | ✅          |
+| [engine/events/hidden_objects/school_blackboard.asm](engine/events/hidden_objects/school_blackboard.asm)  | ✅         |
 | [engine/events/prize_menu.asm](engine/events/prize_menu.asm)                                              | ✅         |
 | [engine/events/vending_machine.asm](engine/events/vending_machine.asm)                                    | ✅         |
-| [engine/items/item_effects.asm](engine/items/item_effects.asm)                                            | 0 / 17      |
+| [engine/items/item_effects.asm](engine/items/item_effects.asm)                                            | ✅         |
 | [engine/items/town_map.asm](engine/items/town_map.asm)                                                    | ✅         |
 | [engine/link/cable_club.asm](engine/link/cable_club.asm)                                                  | ✅         |
 | [engine/link/print_waiting_text.asm](engine/link/print_waiting_text.asm)                                  | ✅         |
@@ -277,8 +277,8 @@ The purpose of this project is to develop a disassembled version translated into
 | [engine/movie/hall_of_fame.asm](engine/movie/hall_of_fame.asm)                                            | ✅         |
 | [engine/movie/oak_speech/oak_speech2.asm](engine/movie/oak_speech/oak_speech2.asm)                        | ✅         |
 | [engine/movie/title.asm](engine/movie/title.asm)                                                          | ✅         |
-| [engine/movie/trade2.asm](engine/movie/trade2.asm)                                                        | 0 / 1       |
-| [engine/overworld/player_state.asm](engine/overworld/player_state.asm)                                    | 0 / 1       |
+| [engine/movie/trade2.asm](engine/movie/trade2.asm)                                                        | ✅         |
+| [engine/overworld/player_state.asm](engine/overworld/player_state.asm)                                    | ✅         |
 | [engine/pokemon/bills_pc.asm](engine/pokemon/bills_pc.asm)                                                | ✅         |
 | [engine/pokemon/status_ailments.asm](engine/pokemon/status_ailments.asm)                                  | ✅         |
 | [engine/pokemon/status_screen.asm](engine/pokemon/status_screen.asm)                                      | ✅         |
