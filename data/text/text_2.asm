@@ -1554,7 +1554,7 @@ _AccessedSomeonesPCText::
 
 	para "Accedes al"
 	line "Sistema de"
-	cont "Almacenmiento"
+	cont "Almacenamiento"
 	cont "de los #MON."
 	prompt
 
